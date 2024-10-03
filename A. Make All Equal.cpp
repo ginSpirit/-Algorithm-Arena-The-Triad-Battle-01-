@@ -14,7 +14,7 @@ int a[MAX_N+5];
 
 void solve() {
     int n; cin >> n;
-    memset(a, 0, sizeof(a[0])* (n+1));
+    memset(a, 0, sizeof(a));
     int m = 0;
     for (int i=0; i<n; i++) {
         int x; cin >> x;
