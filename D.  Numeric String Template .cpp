@@ -9,7 +9,7 @@ const int INF = 0x3f3f3f3f;
 const ll LLINF = 0x3f3f3f3f3f3f3f3f;
 using namespace std;
 
-const int MAX_N = 1e6 + 10;  
+const int MAX_N = 1e6 + 10;
 int v[MAX_N];
 
 void solve() {
